@@ -15,7 +15,7 @@ Machine Learning models used:
 OLS  
 LASSO regression  
 Ridge regression  
-Parameter optimization using cross-validated grid searching  
+Hyperparameter tuning using cross-validated grid searching  
 
 Scoring methods:  
 Pearson's correlation  
